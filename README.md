@@ -59,5 +59,5 @@ This project uses **K-Nearest Neighbors (KNN)** to classify iris flowers into th
 
 ---
 
-## 📌 About
+## About
 A machine learning project implementing KNN in Python to classify iris flowers using sepal and petal measurements.
