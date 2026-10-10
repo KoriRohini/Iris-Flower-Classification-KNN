@@ -53,8 +53,8 @@ This project uses **K-Nearest Neighbors (KNN)** to classify iris flowers into th
 - **Accuracy:** 100%  
 - **Confusion Matrix:**
 
-[[10  0  0]
-[ 0  9  0]
+[[10  0  0]<br>
+[ 0  9  0]<br>
 [ 0  0 11]]
 
 ---
