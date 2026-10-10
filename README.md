@@ -1,10 +1,10 @@
-# 🌸 Iris Flower Classification (KNN)
+# Iris Flower Classification (KNN)
 
 This project uses **K-Nearest Neighbors (KNN)** to classify iris flowers into three species (*setosa*, *versicolor*, *virginica*) based on sepal and petal dimensions.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** Iris dataset (150 samples, 5 columns)  
 - **Features:**  
   - Sepal Length  
@@ -15,7 +15,7 @@ This project uses **K-Nearest Neighbors (KNN)** to classify iris flowers into th
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -25,7 +25,7 @@ This project uses **K-Nearest Neighbors (KNN)** to classify iris flowers into th
 
 ---
 
-## 🛠️ Steps
+## Steps
 1. Load the dataset  
 2. Inspect data & check for missing values  
 3. Perform Exploratory Data Analysis (EDA)  
@@ -37,31 +37,25 @@ This project uses **K-Nearest Neighbors (KNN)** to classify iris flowers into th
 
 ---
 
-## 🔀 Train-Test Split
+## Train-Test Split
 - **Training data:** 120 samples  
 - **Testing data:** 30 samples  
 
 ---
 
-## 🤖 Model
+## Model
 - Algorithm: **K-Nearest Neighbors (KNN)**  
 - Task: Classify iris flowers into species  
 
 ---
 
-## 📈 Results
+## Results
 - **Accuracy:** 100%  
 - **Confusion Matrix:**
 
 [[10  0  0]
 [ 0  9  0]
 [ 0  0 11]]
-
-
----
-
-## 👩‍💻 Author
-**Rohini Kori**
 
 ---
 
