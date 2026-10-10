@@ -1,16 +1,16 @@
-Iris Flower Classification using K-Nearest Neighbors (KNN)
+###Iris Flower Classification using K-Nearest Neighbors (KNN)
 
-Overview
+##Overview
 
 This project uses K-Nearest Neighbors (KNN) to classify iris flowers into different species based on their sepal and petal measurements.
 
-Dataset
+##Dataset
 
-- Source: Seaborn Iris Dataset
-- Rows: 150
-- Columns: 5
+- **Source:** Seaborn Iris Dataset
+- **Rows:** 150
+- **Columns:** 5
 
-Features
+##Features
 
 - Sepal Length
 - Sepal Width
@@ -18,7 +18,7 @@ Features
 - Petal Width
 - Species
 
-Technologies Used
+##Technologies Used
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ Technologies Used
 - Matplotlib
 - Seaborn
 
-Steps
+##Steps
 
 1. Load the Iris dataset.
 2. Inspect the data and check for missing values.
@@ -38,16 +38,16 @@ Steps
 7. Train the KNN model with K = 5.
 8. Predict flower species and evaluate the model.
 
-Train-Test Split
+##Train-Test Split
 
 - Training data: 120 samples
 - Testing data: 30 samples
 
-Model
+##Model
 
 The K-Nearest Neighbors (KNN) algorithm from Scikit-Learn is used to classify flowers into three species: Setosa, Versicolor, and Virginica.
 
-Result
+##Result
 
 - Accuracy: 100%
 - Correct Predictions: 30 out of 30
@@ -58,6 +58,6 @@ Confusion Matrix
  [ 0  9  0]
  [ 0  0 11]]
 
-Author
+##Author
 
 Rohini Kori
